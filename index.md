@@ -17,7 +17,7 @@
 </table>
 
 
-<h1>Research interests</h1>
+<h2>Research interests</h2>
 
 Feature selection; Multi-view data; Copula in ML
 
