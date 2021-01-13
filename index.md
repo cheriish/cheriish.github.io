@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+<h1>Welecome to my page!</h1>
 
-You can use the [editor on GitHub](https://github.com/cheriish/cheriish.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Guo Kejun</h1>
+      <p><b>Postgraduate</b></p>
+      <p><b>Southwestern University of Finance and Economics</b></p>
+      <p><b>Email：guokejun001@163.com</b></p>
+      <p><b>GitHub：https://github.com/cheriish</b></p>
+      <p><b>Address：555 Liutai Dadao, Wenjiang, Chengdu, Sichuan, China</b></p>
+    </td>
+    <td width="25%">
+      <img src="/guokejun.jpg" width="100%">   
+    </td>
+  </tr>
+</table>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<h1>Research interests</h1>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Feature selection; Multi-view data; Copula in ML
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cheriish/cheriish.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<br/>
