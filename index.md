@@ -20,5 +20,6 @@
 <h2>Research interests</h2>
 
 Feature selection; Multi-view data; Copula in ML
+https://doi.org/10.1142/9789811223334_0015
 
 <br/>
